@@ -1,9 +1,11 @@
 
 # Rapport
 
-**Skriv din rapport här!**
+Det första jag gjorde var att byta från constraintlayout till en linearlayout sedan la jag till en bild  genom att dra in en imageview från pallet.
+sedan så skapade jag en LinearLayout innuti linearlayout och sedan bytte jag orientation till "horizontal" och sedan la in två knappar i den nyligen
+skapade LinearLayout, syftet med detta var att knapparna skulle vara bredvid varandra. Efter det så bytte jag till backa till constraintlayout
+för att kunna kontrollera viewsen bättre. Sedan så la placerade jag ut bilden och knapparna där jag ville ha dem. jag hade kvar linearlayout med dem två knapparna.
 
-_Du kan ta bort all text som finns sedan tidigare_.
 
 ## Följande grundsyn gäller dugga-svar:
 
