@@ -8,4 +8,24 @@
     tools:context=".MainActivity">
 
 
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="186dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#FFDDDD">
+
+
+
+
+    </LinearLayout>
+
+
+
 </LinearLayout>
